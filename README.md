@@ -3,6 +3,9 @@ Tracker of time left or until a specific event (ex.: end of day/week/month/year/
 
 ## Usage
 ```
+$ pip3 install tqdm
+Successfully installed tqdm-4.66.4
+
 $ python3 MomentoMori.py 
 
 
